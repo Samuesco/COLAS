@@ -1,0 +1,25 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+  dibujo.cpp
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(10,70): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(10,60): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(10,43): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(11,30): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(13,27): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(21,71): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(21,61): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(21,44): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(22,31): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(24,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(35,70): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(35,60): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(35,43): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(36,30): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(38,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(46,70): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(46,60): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(46,43): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(47,29): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\Sala\Documents\GLSL_Lighting (1)\dibujo.cpp(49,25): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  Generando código...
+  TemplateProject.vcxproj -> C:\Users\Sala\Documents\GLSL_Lighting (1)\Debug\TemplateProject.exe
